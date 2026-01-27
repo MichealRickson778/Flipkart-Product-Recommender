@@ -12,3 +12,20 @@ Flipkart Product Recommender using Prometheus, Grafana, Minikube, AstraDB, Langc
 7. Flask - For making backdn of your application
 8. HTML/CSS - to make UI/Frontend of the app
 9. Kubectl - CLI tool for kubernets to interact with machine
+
+[Browser]
+   ↓
+[Login / Register]
+   ↓
+[Auth Middleware]
+   ↓
+[Chatbot UI]
+   ↓
+[FastAPI / Flask Backend]
+   ↓
+[LangChain RAG]
+   ↓
+[Astra DB Vector Store]
+   ↓
+[LLM (HF / OpenAI)]
+
